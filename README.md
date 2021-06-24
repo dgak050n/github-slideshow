@@ -10,4 +10,4 @@ Soy el bot del laboratorio de aprendizaje de GitHub y estoy aquí para guiarlo e
 
 ¡Nos vemos allí, no puedo esperar para empezar!
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). En algunos casos, hicimos cambios en el historial para que se comportara durante la clase, así que dirígete al repositorio del proyecto original para obtener más información sobre las personas geniales detrás de este proyecto.
+Este curso utiliza el proyecto de código abierto :sparkles: [reveal.js](https://github.com/hakimel/reveal.js/). En algunos casos, hicimos cambios en el historial para que se comportara durante la clase, así que dirígete al repositorio del proyecto original para obtener más información sobre las personas geniales detrás de este proyecto.
